@@ -30,5 +30,6 @@ def biseccion(x1,x2,e,f):
     anmenos1 = a
 
   
-print(biseccion(0.1,5,0.1,f))
+print(biseccion(1,14,0.1,f))
+
 
