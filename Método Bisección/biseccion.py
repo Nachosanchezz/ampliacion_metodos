@@ -28,5 +28,6 @@ def biseccion(x1,x2,e,f):
     elif f(a)*f(x2) < 0:
       x2 = a
     anmenos1 = a
+  return a
    
-  print(biseccion(1,14,0.1,f))
+print(biseccion(0.1,90,0.1,f))
