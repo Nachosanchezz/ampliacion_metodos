@@ -33,3 +33,6 @@ def biseccion(x1,x2,e,f):
 print(biseccion(1,14,0.1,f))
 
 
+
+
+
